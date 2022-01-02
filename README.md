@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 Hi, my name is Aidan and I am from the Bay Area, California. I have been studying the Master degree of Software Development at Boston University since March, 2020 and have taken Data Sturcture with Python, Algorithms with Java, and Front-end Development with html/CSS/Vue. The Master of Software Devlopment has taught me the foundanmental concepts of computer science, and through self exploring, I am inspired by the virtual applications and I am determined to pursue my career in software development.
-[![aidanschang's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanschang)](https://github.com/aidanschang/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanschang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **aidanschang/aidanschang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
