@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aidan
+# Hi there 👋, my name is Aidan
 #### Master's Student in Software Development at Boston University
 ![Master's Student in Software Development at Boston University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
