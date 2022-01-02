@@ -1,22 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Aidan
+#### Master's Student in Software Development at Boston University
+![Master's Student in Software Development at Boston University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hi, my name is Aidan and I am from the Bay Area, California. I have been studying the Master degree of Software Development at Boston University since March, 2020 and have taken Data Sturcture with Python, Algorithms with Java, and Front-end Development with html/CSS/Vue. The Master of Software Devlopment has taught me the foundanmental concepts of computer science, and through self exploring, I am inspired by the virtual applications and I am determined to pursue my career in software development.
+My name is Aidan and I am from the Bay Area, California. I have been studying for a Master's degree in Software Development at Boston University since March 2020 and have taken Data Structures with Python, Algorithms with Java, and Front-end Development with HTML/CSS/Vue. The Master of Software Development has taught me the fundamental concepts of computer science, and through self-exploring, I am inspired by the virtual applications and I am determined to pursue my career in software development.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanschang&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+Skills: JAVA / PYTHON / JS / HTML / CSS 
 
 
-<!--
-**aidanschang/aidanschang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
