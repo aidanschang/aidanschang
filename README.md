@@ -10,7 +10,7 @@ I live in the Bay Area, California, and I have been studying for a Master's degr
 Classes taken: Information Structures with Python / Data Structures and Algorithms / Web Application Development
 
 Skills and Experience:
-*💻 JAVA / PYTHON / JS / 
+*💻 JAVA / PYTHON / JS/ 
 *🕸️ HTML / CSS / VUE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aidanschang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aidan-chang-b5197860/)  
