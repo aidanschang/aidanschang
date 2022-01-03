@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Aidan
+## Hi there 👋, my name is Aidan
 #### Master's Student in Software Development at Boston University
 \
 My name is Aidan and I am from the Bay Area, California. I have been studying for a Master's degree in Software Development at Boston University since March 2020 and have taken Data Structures with Python, Algorithms with Java, and Front-end Development with HTML/CSS/Vue. The Master of Software Development has taught me the fundamental concepts of computer science, and through self-exploring, I am inspired by the virtual applications and I am determined to pursue my career in software development.\
