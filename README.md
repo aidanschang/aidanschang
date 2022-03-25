@@ -8,7 +8,7 @@ Classes taken: Information Structures with Python / Data Structures and Algorith
 
 Skills and Experience:
 * 💻 JAVA / PYTHON / JS
-* 🕸️ HTML / CSS / React.js / VUE
+* 🕸️ HTML / CSS / REACT.JS / VUE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aidanschang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aidan-chang-b5197860/)  
 
