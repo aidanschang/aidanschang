@@ -5,7 +5,7 @@ My name is Aidan from Bay Area, California. I have been studying for Master's de
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanschang&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />Portfolio: https://aidanchangportfolio.onrender.com
-<br />Classes taken: Information Structures with Python / Data Structures and Algorithms / Web Application Development
+<br />Classes taken: Information Structures with Python | Data Structures and Algorithms | Web Application Development | Database Design and Implementation for Business | Data Science with Python | Advanced Programing Techniques | Software Engineering
 
 Skills and Experience:
 * 💻 JAVA / PYTHON / JS
