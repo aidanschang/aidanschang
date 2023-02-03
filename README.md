@@ -3,8 +3,8 @@
 My name is Aidan from Bay Area, California. I have been studying for Master's degree in Software Development at Boston University since March 2020, and I have taken courses in Data Structures and Algorithms, Front-end Development, Data Science and Machine Learning, Database Design, and Software Engineering. The Master's of Software Development has taught me the fundamental concepts of computer science, and I am intrigued by what the computor languages can do! I am excited to learn more skills and knowledge, and I am determined to pursue my career in the software industry.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanschang&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-Portfolio: https://aidanchangportfolio.onrender.com
-Classes taken: Information Structures with Python / Data Structures and Algorithms / Web Application Development
+<br />Portfolio: https://aidanchangportfolio.onrender.com
+<br />Classes taken: Information Structures with Python / Data Structures and Algorithms / Web Application Development
 
 Skills and Experience:
 * 💻 JAVA / PYTHON / JS
